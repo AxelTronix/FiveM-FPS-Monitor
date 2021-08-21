@@ -13,19 +13,6 @@ This script will allow you to monitor Players FPS
 3. add start FPS to your server.cfg
 4. Well Done :)
 
-<!-- CONTACT -->
-## Contact
-
-- Tronix 
-
-Discords: 
-
-[ND Anticheat Discord](https://discord.com/invite/ndac)
-
-[ND Development Team Discord](https://discord.gg/nsdev)
-
-[Sin RP Discord](https://discord.gg/sinrp)
-
 ### Picture
 
 [![bg][banners]][website]
