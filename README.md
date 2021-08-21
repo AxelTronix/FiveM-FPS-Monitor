@@ -26,6 +26,7 @@ Discords:
 
 [Sin RP Discord](https://discord.gg/sinrp)
 
+### Picture
 
 [![bg][banners]][website]
 
