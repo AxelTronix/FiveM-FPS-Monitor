@@ -7,7 +7,7 @@
 This script will allow you to monitor Players FPS
 
 ```lua
-Sends an Embed message to discord every 10 Minutes
+Sends an Embed message to discord every 10 Minutes (Look Down Below)
 ```
 
 ### Installation
