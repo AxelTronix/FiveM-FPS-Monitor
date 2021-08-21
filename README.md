@@ -26,4 +26,7 @@ Discords:
 
 [Sin RP Discord](https://discord.gg/sinrp)
 
-# Player Stats
+
+[![bg][banner]][website]
+
+[banner]: https://cdn.discordapp.com/attachments/851650166473097217/878687473255977000/9645598f31c4bc0a65d33de0e045e1a0.png
